@@ -1,0 +1,2 @@
+epoch,total_loss,labeled_loss,unlabeled_pde_loss,l2_error,learning_rate
+1,23.5967721886105,14.133499224980673,9.463272918595209,35.82230877876282,0.0005
