@@ -1,0 +1,18 @@
+{
+    "N_t": 200,
+    "N_x": 256,
+    "epochs": 5,
+    "lr": 0.001,
+    "modes1": 8,
+    "modes2": 8,
+    "hidden_list": [
+        40,
+        40,
+        40
+    ],
+    "lambda_r": 0.04,
+    "lambda_d": 1.0,
+    "batch_size_labeled": 10,
+    "batch_size_unlabeled": 10,
+    "optimizer": "Adam"
+}

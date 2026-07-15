@@ -1,0 +1,1 @@
+epoch,total_loss,labeled_loss,unlabeled_pde_loss,l2_error,learning_rate

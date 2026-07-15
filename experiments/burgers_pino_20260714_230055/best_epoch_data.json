@@ -1,0 +1,11 @@
+{
+    "Best epoch": 296,
+    "Best L2 error": 0.03004500925540924,
+    "Total loss at best epoch": 4.339456681410471,
+    "Labeled loss at best epoch": 2.4621819999482897,
+    "Unlabeled PDE loss at best epoch": 1.8772746827867297,
+    "Final L2 error": 0.030557969659566878,
+    "Final total loss": 4.372918083932665,
+    "Final labeled loss": 2.47750209040112,
+    "Final unlabeled PDE loss": 1.8954159829351638
+}
